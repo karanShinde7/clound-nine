@@ -1,0 +1,5 @@
+{
+  "name": "Baby Shower Guestbook & Voting",
+  "description": "A charming baby shower app where guests can vote on the baby's gender, suggest names, and see live counts. Includes an admin dashboard for organizers.",
+  "requestFramePermissions": []
+}
